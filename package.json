@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Pritam-Kumar-911/NodeJs-Journey#readme",
   "dependencies": {
-    "bootstrap": "^5.3.8"
+    "bootstrap": "^5.3.8",
+    "express": "^5.2.1"
   }
 }
